@@ -1,0 +1,17 @@
+# Keep this repository documentation-only. Add new files only after review.
+*
+!.gitignore
+!README.md
+!FEATURES.md
+!docs/
+!docs/ARCHITECTURE.md
+!docs/SCRIPTING.md
+!docs/GOTR.md
+!docs/PLUGINS.md
+!docs/PROJECT-STATUS.md
+!media/
+!media/README.md
+!media/bot-hub.png
+!media/gotr-settings.png
+!media/plugin-configuration.png
+!media/developer-tools.png
