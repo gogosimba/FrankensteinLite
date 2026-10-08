@@ -1,18 +1,19 @@
 # Project and publication status
 
-This public repository is a **documentation-only technical showcase**. It provides an overview of implemented capabilities and four genuine host-interface screenshots.
+This public repository is a **technical showcase**, with documentation and six genuine client screenshots. It includes no application source or binaries.
 
 ## Included
 
 - Project README and feature overview.
 - Architecture, scripting concepts, plugin compatibility and GOTR evidence documentation.
 - Logged-out host captures showing Scripts, GOTR settings, Plugins and developer query tools.
+- A native 117 HD gameplay capture and an early GOTR arena capture, with accurate captions and privacy crops.
 
 ## Withheld
 
 Client/API/bot source, executable code examples, binaries, build scripts, dependencies, plugin JARs, game caches/maps/collision data, account/session files, private logs and the private release audit are absent. No source or binary release is offered here. Marketplace/sale material is also excluded.
 
-The original HD/gameplay and GOTR arena screenshots remain withheld because their publication rights were unresolved in the private release audit. No in-game artwork, game scenes, textures or gameplay video are distributed through this repository.
+The gameplay images are rendered screenshots, not extracted game assets. No runtime/cache files, textures, models or gameplay video are distributed through this repository. Old School RuneScape and its game imagery belong to Jagex; screenshot publication does not grant rights to the underlying application or third-party assets.
 
 ## Distribution boundaries
 

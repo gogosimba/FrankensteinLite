@@ -1,6 +1,6 @@
 # Feature overview
 
-The following describes the implemented project. This repository distributes documentation and four host-interface captures, not application code or binaries.
+The following describes the implemented project. This repository distributes documentation and six genuine client captures, not application code or binaries.
 
 | Feature | Verified scope / boundary |
 | --- | --- |

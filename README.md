@@ -8,11 +8,11 @@
 
 </div>
 
-This repository presents the project's engineering and verified capabilities. It contains **documentation and host-interface screenshots only**. Client source, scripts, executable downloads, account information and game assets are not distributed here.
+![FrankensteinLite running original 117 HD, with its standalone tools panel](media/frankensteinlite-117hd.png)
 
-![The actual standalone Bot Hub, with GotrBot selected and 12 scripts discovered](media/bot-hub.png)
+*Genuine native 117 HD capture in the standalone client. Chat was cropped for presentation; gameplay and interface pixels are unchanged.*
 
-*Genuine capture of the running host's Scripts panel in an isolated, logged-out profile. No bot was started for this capture.*
+This repository presents the project's engineering and verified capabilities through **documentation and genuine client screenshots**. Client source, scripts, executables, account information and runtime/cache files are not distributed here.
 
 ## What the project does
 
@@ -29,6 +29,10 @@ This repository presents the project's engineering and verified capabilities. It
 The portable launcher is implemented; a Windows installer is not. Source and binary distribution remain separate from this showcase. [Availability and limits](docs/PROJECT-STATUS.md).
 
 ## Guardians of the Rift
+
+![Populated Guardians of the Rift arena with the original Helper overlay](media/gotr-arena.png)
+
+*Genuine early-development arena capture showing the original GOTR Helper. It illustrates the running client and minigame, not final bot performance or reward qualification.*
 
 **GotrBot** is the framework's strongest example of responding to a changing environment. On populated multiplayer worlds, its contribution loop connects:
 
@@ -55,6 +59,10 @@ Full unattended games and repeated contribution cycles were verified live. The o
 The bot relies on other players for the wider defensive game. It is not a solo solver, guardian-creation system or full barrier-repair strategy. [GOTR implementation and evidence](docs/GOTR.md).
 
 ## Script collection and Bot Hub
+
+![The actual standalone Bot Hub, with GotrBot selected and 12 scripts discovered](media/bot-hub.png)
+
+*Genuine capture of the running host's Scripts panel in an isolated, logged-out profile. No bot was started for this capture.*
 
 The host discovers scripts, exposes configuration and provides explicit start/stop controls. Enum settings become dropdowns; selecting a class does not execute it.
 
@@ -97,6 +105,6 @@ Scripts use neutral public contracts rather than RuneLite or individual plugin i
 
 ## About this repository
 
-There are no releases, build instructions or account-setup files here because the application is not distributed through this repository. Gameplay images and sale material were withheld while their publication scope remains unresolved. The four images above show only the host interface, without game scenes or account information.
+There are no releases, build instructions or account-setup files here because the application is not distributed through this repository. The six genuine captures include two gameplay images and four host-interface panels. Chat and private source-path logs are excluded; marketplace material remains separate.
 
-FrankensteinLite is an independent project, with no claimed endorsement from Jagex, RuneLite or the named plugin authors. [Project and distribution status](docs/PROJECT-STATUS.md).
+Old School RuneScape and its game imagery belong to Jagex. FrankensteinLite is an independent project, with no claimed endorsement from Jagex, RuneLite or the named plugin authors. [Project and distribution status](docs/PROJECT-STATUS.md).

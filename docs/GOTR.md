@@ -2,6 +2,10 @@
 
 GotrBot demonstrates several reusable facilities working together: plugin guidance, inventory operations, traversal, queries, verified interaction progress and decisions that respond to fresh game state.
 
+![Early-development capture of the populated GOTR arena and original Helper overlay](../media/gotr-arena.png)
+
+*Genuine arena capture from early development. This frame illustrates the environment and running client; it does not demonstrate the final bot's performance or reward qualification.*
+
 ## Implemented contribution loop
 
 On populated multiplayer worlds, the bot mines fragments, prepares guardian essence at the workbench, enters eligible active altars, crafts runes, returns and infuses the Great Guardian. Charged-cell use piggybacks on the existing trip rather than forming a separate defensive strategy.
@@ -27,7 +31,7 @@ The owner subsequently observed consistent reward qualification on a slower worl
 
 No solo solver, guardian creation, full barrier-repair strategy, combination-rune strategy, intelligent talisman strategy, automatic pouch acquisition/repair or reward claiming is implemented. The bot relies on other players for the broader defensive game.
 
-No gameplay footage is distributed here. This real host-only capture shows the settings interface, not an executing game:
+This additional host-only capture shows the settings interface, not an executing bot:
 
 ![GotrBot settings captured from the running logged-out host](../media/gotr-settings.png)
 
